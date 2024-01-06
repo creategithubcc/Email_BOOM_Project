@@ -1,4 +1,1 @@
-��# Email_BOOM_Project�� 
-"# Email_BOOM_Project" 
-"# Email_BOOM_Project" 
-"# Email_BOOM_Project" 
+Datacon 2023 邮件安全赛道 第二题 【邮件炸弹】判分系统平台初版（非最终版）
